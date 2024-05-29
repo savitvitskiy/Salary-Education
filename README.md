@@ -5,5 +5,5 @@ The project contained in this repository explore and visualize data.
 
 Libraries Used: NumPy, Pandas, GeoPandas, Matplotlib
 
-Screenshot of Question:
+Screenshot of Visualization:
 <img width="903" alt="Salary Analysis" src="SalaryInfo.png">
