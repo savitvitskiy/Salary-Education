@@ -1,0 +1,9 @@
+# Salary & Education
+## Data Analysis for National Salaries, Teacher Salaries, and School Enrollment
+
+The project contained in this repository explore and visualize data.
+
+Libraries Used: NumPy, Pandas, GeoPandas, Matplotlib
+
+Screenshot of Question:
+<img width="903" alt="Salary Analysis" src="SalaryInfo.png">
